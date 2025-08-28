@@ -1,12 +1,30 @@
-# React + Vite
+## 使用技術
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- 建構工具: Vite + React
+- UI 樣式: Material-UI
+- JS套件: C3.js (圖表套件)
+- NodeJs版本: v22.12.0
 
-Currently, two official plugins are available:
+## 取得專案
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+git clone https://github.com/tim8076/test-site-0828.git
+```
 
-## Expanding the ESLint configuration
+## 移動到專案內
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+cd test-site-0827
+```
+
+## 安裝套件
+
+```
+npm install
+```
+
+## 運行專案
+
+```
+npm run dev
+```
